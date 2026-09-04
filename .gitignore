@@ -1,0 +1,30 @@
+# Arduino
+build/
+*.hex
+*.elf
+*.bin
+*.map
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# macOS
+.DS_Store
+
+# PHP / Web
+vendor/
+node_modules/
+
+# Environment Variables
+.env
+env.h
+secrets.h
+
+# Temporary / Build files
+*.zip
+dummy.txt
+test.jpg
